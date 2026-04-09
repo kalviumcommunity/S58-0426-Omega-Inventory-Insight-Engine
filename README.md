@@ -216,3 +216,36 @@ This approach ensures you build on existing work without disrupting the project,
 - Python is installed and accessible via terminal
 - Conda is installed and accessible via terminal
 - Your environment is usable for future DS/ML work
+
+
+## PR4:- Verifying Python, Conda, and Jupyter Installation
+
+### System & Environment Verification
+
+All required tools for data science work have been verified and are functioning correctly on this system. Below are the details and confirmation steps:
+
+**Operating System:**
+- Windows (see system info above)
+
+**1. Python Verification**
+- Python is installed and accessible from the terminal.
+- Version check (`python --version`) returns the expected version (e.g., Python 3.x.x).
+- Python REPL launches without errors, and basic commands (e.g., `print('Hello, world!')`, simple arithmetic) execute successfully.
+
+**2. Conda Environment Verification**
+- Conda is installed and available in the terminal.
+- Version check (`conda --version`) returns the expected version (e.g., conda 23.x.x).
+- Listing environments (`conda env list`) displays available environments, including `base`.
+- Activating the `base` environment works as expected, and the prompt reflects the active environment.
+
+**3. Jupyter Verification**
+- Jupyter Notebook and/or JupyterLab launches successfully from the terminal (`jupyter notebook` or `jupyter lab`).
+- The interface opens in the browser without errors.
+- A new notebook can be created, and Python code cells execute as expected (e.g., `2 + 2` returns `4`).
+
+**Summary:**
+- All core tools (Python, Conda, Jupyter) are installed, accessible, and working as intended.
+- The environment is ready for data science and machine learning workflows.
+- No issues were encountered during verification.
+
+*This section provides proof of readiness for further development and analysis in this repository.*
