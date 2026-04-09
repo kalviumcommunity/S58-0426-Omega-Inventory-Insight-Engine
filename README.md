@@ -611,3 +611,35 @@ All required steps for understanding and using for and while loops in Python hav
 - Confident in using `for` and `while` loops for a variety of data processing tasks.
 - Able to control loop flow with `break` and `continue`, and prevent infinite loops through careful design.
 - Ready to implement robust, efficient iterative logic in Python scripts and notebooks.
+
+
+## PR16:- Defining and Calling Python Functions
+
+### Defining and Calling Python Functions – Task Completion
+
+All required steps for defining and calling Python functions have been completed as follows:
+
+**1. Defining a Function**
+- Used the `def` keyword to define functions with clear, descriptive names.
+- Wrote indented function bodies focused on a single, well-defined task.
+- Practiced modular thinking by breaking code into reusable pieces.
+
+**2. Calling a Function**
+- Called functions by name and passed required arguments as needed.
+- Observed the order of execution and how control returns to the caller after the function completes.
+- Integrated function calls into larger programs for better structure.
+
+**3. Using Parameters and Arguments**
+- Defined parameters in function signatures and passed arguments when calling functions.
+- Matched argument order and used meaningful parameter names for clarity.
+- Understood how parameters make functions flexible and reusable for different inputs.
+
+**4. Understanding Function Scope (Basics)**
+- Observed the difference between local and global variables.
+- Understood that variables defined inside a function are local and exist only during function execution.
+- Avoided unintended side effects by keeping function logic self-contained and minimizing reliance on global state.
+
+**Summary:**
+- Confident in defining, calling, and structuring Python functions for modular, maintainable code.
+- Able to use parameters, arguments, and scope correctly to build robust and reusable logic.
+- Ready to organize analysis scripts and notebooks using well-designed functions.
