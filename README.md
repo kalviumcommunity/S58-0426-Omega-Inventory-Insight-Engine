@@ -479,3 +479,37 @@ All required steps for creating and running a first Python script for data analy
 - Confident in creating, editing, and running Python scripts for data analysis.
 - Understand when to use scripts versus notebooks for different stages of a data science project.
 - Ready to automate and scale analysis using script-based development.
+
+
+## PR12:- Understanding Python Numeric and String Data Types
+
+### Python Numeric and String Data Types – Task Completion
+
+All required steps for understanding and working with Python numeric and string data types have been completed as follows:
+
+**1. Working with Numeric Data Types**
+- Used integers and floating-point numbers in Python.
+- Performed basic arithmetic operations (addition, subtraction, multiplication, division).
+- Observed how Python handles division (e.g., `/` returns a float, `//` returns an integer result).
+- Noted basic numeric precision and how floating-point results may have small rounding differences.
+
+**2. Understanding String Data Types**
+- Created string variables and assigned text values.
+- Concatenated strings and accessed individual characters or slices.
+- Printed strings clearly for output and messaging.
+- Recognized the importance of strings for labels, messages, and data fields.
+
+**3. Mixing Numbers and Strings Safely**
+- Observed errors when trying to mix numbers and strings directly (e.g., adding an integer to a string).
+- Used explicit conversion functions (`str()`, `int()`, `float()`) to safely convert between types as needed.
+- Understood when and why explicit conversion is required to prevent runtime errors.
+
+**4. Inspecting Data Types**
+- Used the `type()` function to inspect variable types during execution.
+- Understood the importance of type awareness for debugging and code correctness.
+- Built habits of validating data types early in scripts and notebooks.
+
+**Summary:**
+- Confident in using and distinguishing between numeric and string data types in Python.
+- Able to mix and convert types safely, and check types as needed for robust code.
+- Ready to handle data fields and computations accurately in future analysis tasks.
