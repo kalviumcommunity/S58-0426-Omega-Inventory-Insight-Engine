@@ -385,3 +385,34 @@ All required steps for using Markdown to organize and explain notebooks have bee
 - Confident in using Markdown for headings, lists, and code formatting to enhance notebook clarity.
 - Able to combine Markdown and code cells effectively for well-structured, readable, and instructive notebooks.
 - Ready to document and present data science work professionally in Jupyter notebooks.
+
+
+## PR9:- Creating a Project Folder Structure for Data Science Work
+
+### Project Folder Structure – Task Completion
+
+All required steps for understanding and creating a standard data science project folder structure have been completed as follows:
+
+**1. Understanding Standard Project Folders**
+- Identified common folders: `data/` (for datasets), `notebooks/` (for exploratory and analysis notebooks), `scripts/` (for reusable code), and `outputs/` (for generated results and figures).
+- Understood the role of each folder and the importance of not mixing files with different purposes.
+- Used lowercase, consistent naming for clarity and professionalism.
+
+**2. Creating the Folder Structure**
+- Created a root project directory with clearly named subfolders: `data/`, `notebooks/`, and `outputs/`.
+- Ensured the structure is simple, logical, and easy to extend as the project grows.
+
+**3. Separating Code, Data, and Outputs**
+- Stored notebooks in the `notebooks/` folder, scripts in `scripts/`, and kept raw data in `data/`.
+- Ensured that outputs and results are saved in the `outputs/` folder, separate from raw data.
+- Avoided modifying raw data files, preserving data integrity.
+
+**4. Preparing Projects for Collaboration**
+- Used intuitive, descriptive folder names to make navigation easy for collaborators.
+- Avoided deep or confusing folder nesting.
+- Ensured that notebooks and scripts reference data using predictable, relative paths.
+- Designed the structure so new contributors can understand and use the project without extra explanation.
+
+**Summary:**
+- Confident in setting up and maintaining a clean, collaborative, and professional data science project structure.
+- Ready to scale the project and work effectively with others using this organization.
