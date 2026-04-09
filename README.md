@@ -449,3 +449,33 @@ All required steps for organizing raw data, processed data, and output artifacts
 **Summary:**
 - Confident in organizing and managing raw, processed, and output data for clarity, reproducibility, and collaboration.
 - The project structure supports best practices for data integrity and workflow transparency.
+
+## PR11:- Creating and Running a First Python Script for Data Analysis
+
+### Python Script Creation & Execution – Task Completion
+
+All required steps for creating and running a first Python script for data analysis have been completed as follows:
+
+**1. Creating a Python Script**
+- Created a clearly named `.py` script (e.g., `simple_analysis.py`) and placed it in the appropriate project folder (such as `scripts/`).
+- Wrote valid Python code, avoiding notebook-only features and ensuring compatibility with script-based execution.
+
+**2. Writing Simple Data Logic**
+- Defined variables and performed simple calculations within the script.
+- Worked with small sample data and printed results to the console for verification.
+- Kept the logic straightforward and easy to read, focusing on correct execution.
+
+**3. Running the Script**
+- Executed the script from the terminal or code editor.
+- Observed the printed output and fixed any basic errors encountered during execution.
+- Understood that Python scripts execute from top to bottom, with no persistent state between runs.
+
+**4. Understanding Script vs Notebook Execution**
+- Learned the differences between scripts and notebooks: scripts are ideal for automation, reproducibility, and reuse, while notebooks are best for exploration and documentation.
+- Recognized that scripts do not maintain state between runs, unlike interactive notebooks.
+- Appreciated the value of scripts for building robust, repeatable data workflows.
+
+**Summary:**
+- Confident in creating, editing, and running Python scripts for data analysis.
+- Understand when to use scripts versus notebooks for different stages of a data science project.
+- Ready to automate and scale analysis using script-based development.
