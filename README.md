@@ -547,3 +547,35 @@ All required steps for understanding and working with Python lists, tuples, and 
 - Confident in using lists, tuples, and dictionaries for a variety of programming tasks.
 - Able to select the most appropriate data structure for different scenarios, improving code clarity and reliability.
 - Ready to build more complex data-driven logic using these core Python collections.
+
+
+## PR14:- Writing Conditional Statements for Data Logic
+
+### Conditional Statements for Data Logic – Task Completion
+
+All required steps for writing and understanding Python conditional statements have been completed as follows:
+
+**1. Writing Basic if Statements**
+- Used `if` statements to check simple conditions and execute code when the condition is true.
+- Observed that code inside the block does not run when the condition is false.
+- Kept conditions clear and intentional for easy reading and debugging.
+
+**2. Using if–else for Decision Branching**
+- Added `else` blocks to handle alternative outcomes when the `if` condition is false.
+- Ensured both true and false paths are handled explicitly.
+- Avoided unnecessary nesting and kept logic paths clearly separated.
+
+**3. Handling Multiple Conditions with elif**
+- Used `elif` to check multiple, mutually exclusive conditions in sequence.
+- Ordered conditions carefully to ensure only one branch executes.
+- Avoided overlapping or redundant checks for clean, predictable logic.
+
+**4. Using Logical Operators**
+- Combined conditions using `and`, `or`, and `not` for expressive decision-making.
+- Practiced writing readable compound conditions for more complex logic.
+- Understood how logical operators affect the flow and outcome of conditional statements.
+
+**Summary:**
+- Confident in writing, reading, and debugging conditional statements using `if`, `elif`, `else`, and logical operators.
+- Able to structure decision logic for a wide range of data analysis and automation tasks.
+- Ready to implement robust, maintainable control flow in Python scripts and notebooks.
