@@ -249,3 +249,41 @@ All required tools for data science work have been verified and are functioning 
 - No issues were encountered during verification.
 
 *This section provides proof of readiness for further development and analysis in this repository.*
+
+
+## PR5:- Launching Jupyter Notebook and Understanding the Home Interface
+
+### Jupyter Notebook Launch & Interface Verification
+
+All required steps for launching and understanding the Jupyter Notebook environment have been completed as follows:
+
+**1. Launching Jupyter Notebook**
+- The correct Conda environment was activated before launching Jupyter.
+- Jupyter Notebook was started from the terminal using the appropriate command.
+- The interface opened in the default web browser without any errors.
+- The root directory shown in Jupyter matched the launch location, confirming correct folder mapping.
+
+**2. Understanding the Jupyter Home Interface**
+- The Home interface displays a clear listing of files and folders in the current directory.
+- Navigation breadcrumbs at the top allow easy movement between directories.
+- Buttons for creating new files and notebooks are visible and accessible.
+- File type indicators (folders, notebooks, scripts) are clearly shown with appropriate icons.
+
+**3. Navigating Project Folders**
+- Successfully navigated into and out of directories using the Jupyter interface.
+- Located the project folder and confirmed its contents match the local file system.
+- Gained confidence in understanding how navigation in Jupyter maps to actual folders on disk.
+
+**4. Creating and Opening a Notebook**
+- Created a new notebook in the intended project folder.
+- Opened the notebook and verified it uses the expected Python kernel.
+- Ran a simple cell (e.g., `1 + 1`) to confirm successful execution.
+
+**5. Notebook File Management Basics**
+- Renamed the notebook using the Jupyter interface.
+- Saved changes and closed the notebook safely.
+- Reopened the notebook from the Home interface to confirm all changes were preserved.
+
+**Summary:**
+- All core aspects of launching, navigating, and managing Jupyter Notebooks have been verified and are well understood.
+- The environment is ready for further data science work with confidence in file management and navigation.
