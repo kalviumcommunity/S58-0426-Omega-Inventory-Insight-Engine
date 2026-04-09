@@ -287,3 +287,36 @@ All required steps for launching and understanding the Jupyter Notebook environm
 **Summary:**
 - All core aspects of launching, navigating, and managing Jupyter Notebooks have been verified and are well understood.
 - The environment is ready for further data science work with confidence in file management and navigation.
+
+
+## PR6:- Understanding Notebook Cells: Code vs Markdown
+
+### Notebook Cells: Code vs Markdown – Task Completion
+
+All required steps for understanding and using code and markdown cells in Jupyter notebooks have been completed as follows:
+
+**1. Understanding Code Cells**
+- Practiced writing and executing simple Python statements in code cells (e.g., arithmetic, print statements).
+- Observed that only code cells execute computations and produce outputs.
+- Confirmed that code cells are used for logic and calculations, not for explanations.
+
+**2. Understanding Markdown Cells**
+- Converted cells to Markdown and wrote headings, paragraphs, and bullet points.
+- Used Markdown cells to explain the notebook’s purpose, describe code logic, and interpret outputs.
+- Confirmed that Markdown cells are for narrative, structure, and documentation, not for running code.
+
+**3. Switching Between Cell Types**
+- Created new cells of both types and converted existing cells between code and markdown.
+- Practiced choosing the appropriate cell type for each part of the notebook.
+- Developed confidence in fixing mistakes and maintaining a clean notebook structure.
+
+**4. Structuring a Simple Notebook**
+- Created a notebook with a Markdown title at the top.
+- Added a Markdown cell explaining the notebook’s purpose.
+- Included one or two code cells with simple Python commands.
+- Used Markdown cells to explain what each code cell does and what the outputs mean.
+
+**Summary:**
+- The distinction between code and markdown cells is clear and well understood.
+- Confident in structuring notebooks for clarity, combining narrative and computation as needed.
+- Ready to create well-documented, readable, and reproducible Jupyter notebooks for future work.
