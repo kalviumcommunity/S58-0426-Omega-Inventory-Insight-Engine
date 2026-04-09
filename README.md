@@ -143,3 +143,70 @@ This structured approach ensures:
 - Insights lead to **decisions**, not just observations  
 
 Instead of just analyzing data, you are **answering a meaningful question with evidence and reasoning**.
+
+
+## PR2:- [Learning Milestone] Understanding the Data Science Lifecycle: Question -> Data -> Insight
+
+### 1. Project Intent & High-Level Flow
+
+**Project Intent:**
+This project aims to address the challenge of inventory management in retail chains, specifically focusing on identifying slow-moving items, fast-selling products, and understanding demand variability across stores and time periods. The core question is how to use data to minimize stockouts and overstocking, improving operational efficiency and customer satisfaction.
+
+**High-Level Data Science Workflow:**
+- **Question Formulation:** Start by defining clear, actionable questions about inventory movement and sales patterns.
+- **Data Collection & Understanding:** Gather relevant data (e.g., sales, inventory logs) and critically assess its quality, completeness, and limitations.
+- **Exploratory Data Analysis:** Explore the data to uncover trends, anomalies, and patterns that relate to the business questions.
+- **Insight Generation:** Interpret findings in the context of the original questions to produce actionable insights for decision-making.
+
+**Repository Structure Reflection:**
+While this repository currently contains only a README, a typical data science repository would have folders for data, notebooks, scripts, and outputs. Each part of the structure would map to a stage in the lifecycle: raw data for evidence, notebooks/scripts for exploration, and outputs for insights and results.
+
+---
+
+### 2. Repository Structure & File Roles
+
+**Key Folders and Files (Typical Structure):**
+- **data/**: Storage for raw and processed datasets. Work here involves data cleaning, transformation, and validation.
+- **notebooks/**: Contains exploratory analyses, visualizations, and iterative work. This is where hypotheses are tested and initial findings are documented.
+- **scripts/**: Production-ready code for data processing, modeling, or automation. These are more stable and reusable than notebooks.
+- **outputs/**: Stores results, reports, and generated figures. This is the end product of the analysis.
+- **README.md**: Provides project overview, instructions, and documentation for contributors.
+
+**Exploratory vs. Finalized Work:**
+- Exploratory work (in notebooks) is flexible, iterative, and may contain incomplete or experimental analyses.
+- Finalized analysis (in scripts/outputs) is reproducible, well-documented, and intended for broader use or deployment.
+
+**Caution for New Contributors:**
+- Be careful when modifying data or scripts that are used by others or are part of the final analysis pipeline.
+- Always document changes and avoid overwriting raw data.
+- Use version control and consider working in branches for major changes.
+
+---
+
+### 3. Assumptions, Gaps, and Open Questions
+
+**Assumptions:**
+- The data accurately reflects real inventory and sales events.
+- All relevant variables (e.g., time, location, product details) are available and correctly recorded.
+- The business context and goals are clearly understood by all contributors.
+
+**Gaps and Open Questions:**
+- The current repository lacks folders for data, notebooks, or scripts, making it unclear where to add new analyses or data.
+- There is no documentation on data sources, preprocessing steps, or expected file formats.
+- The workflow for contributing new analyses or updating existing work is not described.
+
+**Improvement Suggestion:**
+- Add a clear folder structure and contribution guidelines to help new users understand where to place new work and how to extend the project safely.
+
+---
+
+### Deciding Where and How to Extend the Project
+
+If asked to add a new analysis:
+- **Review the README and any available documentation** to understand the project’s goals and workflow.
+- **Look for dedicated folders** (e.g., notebooks/ or analysis/) for exploratory work. If missing, propose adding them.
+- **Avoid changing core scripts or data** unless you are sure of their purpose and impact. Instead, add new notebooks or scripts in a separate folder or branch.
+- **Document your work** clearly so others can follow your reasoning and reproduce your results.
+- **Communicate with maintainers** if unsure about where to contribute or if you notice missing documentation.
+
+This approach ensures you build on existing work without disrupting the project, and helps maintain clarity and reproducibility for all contributors.
