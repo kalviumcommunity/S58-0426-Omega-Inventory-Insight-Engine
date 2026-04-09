@@ -210,3 +210,9 @@ If asked to add a new analysis:
 - **Communicate with maintainers** if unsure about where to contribute or if you notice missing documentation.
 
 This approach ensures you build on existing work without disrupting the project, and helps maintain clarity and reproducibility for all contributors.
+
+
+## PR3:- Installing Python and Anaconda on the Local Machine
+- Python is installed and accessible via terminal
+- Conda is installed and accessible via terminal
+- Your environment is usable for future DS/ML work
