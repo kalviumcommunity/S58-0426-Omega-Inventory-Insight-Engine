@@ -513,3 +513,37 @@ All required steps for understanding and working with Python numeric and string 
 - Confident in using and distinguishing between numeric and string data types in Python.
 - Able to mix and convert types safely, and check types as needed for robust code.
 - Ready to handle data fields and computations accurately in future analysis tasks.
+
+
+## PR13:- Working with Python Lists, Tuples, and Dictionaries
+
+### Python Lists, Tuples, and Dictionaries – Task Completion
+
+All required steps for understanding and working with Python lists, tuples, and dictionaries have been completed as follows:
+
+**1. Working with Python Lists**
+- Created lists with multiple values and accessed elements using indexes.
+- Modified, added, and removed elements to demonstrate mutability.
+- Iterated over list items to process dynamic collections.
+- Recognized lists as ideal for ordered, changeable data.
+
+**2. Working with Python Tuples**
+- Created tuples with fixed values and accessed elements by index.
+- Observed that tuples are immutable—attempts to modify elements result in errors.
+- Understood that tuples are preferred when data should not change, such as coordinates or fixed records.
+
+**3. Working with Python Dictionaries**
+- Created dictionaries with meaningful keys and associated values.
+- Accessed, modified, and added key-value pairs.
+- Explored dictionary structure for modeling real-world entities and fast lookups.
+
+**4. Choosing the Right Data Structure**
+- Identified lists as best for ordered, mutable collections.
+- Chose tuples for fixed, unchangeable groups of items.
+- Used dictionaries for mapping keys to values and representing structured data.
+- Explained choices based on mutability, order, and use case requirements.
+
+**Summary:**
+- Confident in using lists, tuples, and dictionaries for a variety of programming tasks.
+- Able to select the most appropriate data structure for different scenarios, improving code clarity and reliability.
+- Ready to build more complex data-driven logic using these core Python collections.
