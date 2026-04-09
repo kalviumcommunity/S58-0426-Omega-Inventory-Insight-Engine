@@ -351,3 +351,37 @@ All required steps for running, restarting, and interrupting Jupyter kernels hav
 - Confident in managing Jupyter kernels, including running, restarting, and interrupting as needed.
 - Able to maintain reproducibility and avoid common pitfalls related to notebook state and execution order.
 - Ready to handle notebook issues efficiently during data science work.
+
+## PR8:- Running, Restarting, and Interrupting Jupyter Kernels
+
+### Markdown for Headings, Lists, and Code Blocks – Task Completion
+
+All required steps for using Markdown to organize and explain notebooks have been completed as follows:
+
+**1. Writing Headings in Markdown**
+- Used top-level headings (e.g., `# Section Title`) to organize major notebook sections.
+- Added subheadings (`##`, `###`) to break content into logical steps and subsections.
+- Maintained a clear, readable hierarchy for easy navigation.
+- Avoided vague or overly long headings to keep the notebook structure intuitive.
+
+**2. Creating Lists for Structured Explanations**
+- Wrote unordered lists (`-` or `*`) for general points, assumptions, and explanations.
+- Used ordered lists (`1.`, `2.`, etc.) for step-by-step instructions and processes.
+- Kept list items concise and meaningful for better readability.
+- Applied lists where structure improved clarity and scanning.
+
+**3. Writing Inline Code and Code Blocks**
+- Used inline code formatting (e.g., ``variable_name``) for short references to code elements.
+- Included fenced code blocks (triple backticks) for longer code snippets and examples.
+- Ensured code blocks were relevant and easy to read, without duplicating executable code unnecessarily.
+
+**4. Combining Markdown and Code Cells Effectively**
+- Placed Markdown cells before code cells to explain intent and context.
+- Added Markdown cells after code cells to interpret results and outputs.
+- Avoided putting explanations inside code comments, maintaining a clean separation.
+- Practiced alternating Markdown and code cells for a smooth, readable notebook narrative.
+
+**Summary:**
+- Confident in using Markdown for headings, lists, and code formatting to enhance notebook clarity.
+- Able to combine Markdown and code cells effectively for well-structured, readable, and instructive notebooks.
+- Ready to document and present data science work professionally in Jupyter notebooks.
