@@ -643,3 +643,39 @@ All required steps for defining and calling Python functions have been completed
 - Confident in defining, calling, and structuring Python functions for modular, maintainable code.
 - Able to use parameters, arguments, and scope correctly to build robust and reusable logic.
 - Ready to organize analysis scripts and notebooks using well-designed functions.
+
+
+## PR17:- Passing Data into Functions and Returning Results
+
+### Passing Data into Functions and Returning Results – Task Completion
+
+All required steps for understanding how to pass data into functions and return results in Python have been completed as follows:
+
+**1. Understanding Parameters and Arguments**
+- Defined parameters in function signatures to accept input values.
+- Passed arguments during function calls, matching them correctly to parameters.
+- Used meaningful parameter names for clarity and maintainability.
+- Practiced writing flexible functions that can handle different inputs.
+
+**2. Returning Values from Functions**
+- Used the `return` statement to send data back from functions.
+- Returned single values or expressions as needed.
+- Understood that function execution ends at the `return` statement.
+- Avoided unnecessary print statements inside functions, focusing on returning results for reuse.
+
+**3. Using Returned Results**
+- Stored returned values in variables for further use.
+- Used returned values in calculations and as arguments to other functions.
+- Printed results only when needed, keeping output logic separate from computation.
+- Built composable logic by chaining function outputs.
+
+**4. Avoiding Common Function Mistakes**
+- Avoided hardcoding values inside functions, using parameters instead.
+- Kept print and return usage separate to prevent confusion.
+- Ensured every execution path returns a value when required.
+- Maintained focused, single-purpose function logic to prevent bugs and improve readability.
+
+**Summary:**
+- Confident in passing data into functions, returning results, and using outputs effectively in Python.
+- Able to write flexible, reusable, and composable functions while avoiding common pitfalls.
+- Ready to build more complex and maintainable programs using these best practices.
