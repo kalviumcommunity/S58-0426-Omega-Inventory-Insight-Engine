@@ -579,3 +579,35 @@ All required steps for writing and understanding Python conditional statements h
 - Confident in writing, reading, and debugging conditional statements using `if`, `elif`, `else`, and logical operators.
 - Able to structure decision logic for a wide range of data analysis and automation tasks.
 - Ready to implement robust, maintainable control flow in Python scripts and notebooks.
+
+
+## PR15:- Using for and while Loops for Iterative Data Processing
+
+### Iterative Data Processing with Loops – Task Completion
+
+All required steps for understanding and using for and while loops in Python have been completed as follows:
+
+**1. Using for Loops for Iteration**
+- Used `for` loops to iterate over ranges of numbers and elements in lists or collections.
+- Observed the execution order and used loop variables meaningfully in each iteration.
+- Recognized `for` loops as ideal for processing known sequences or collections.
+
+**2. Using while Loops for Condition-Based Repetition**
+- Wrote `while` loops that repeat as long as a condition is true.
+- Updated loop variables correctly to ensure loops stop intentionally.
+- Understood that `while` loops are best when the number of repetitions depends on changing conditions.
+
+**3. Controlling Loop Flow**
+- Used `break` to exit loops early when a condition is met.
+- Used `continue` to skip specific iterations and control loop flow.
+- Kept loop logic clear and avoided unnecessary complexity for readability and safety.
+
+**4. Avoiding Infinite Loops**
+- Identified common causes of infinite loops, such as unchanging conditions or missing updates.
+- Ensured all loop conditions change appropriately to guarantee termination.
+- Tested loops with small examples and stopped execution safely if needed.
+
+**Summary:**
+- Confident in using `for` and `while` loops for a variety of data processing tasks.
+- Able to control loop flow with `break` and `continue`, and prevent infinite loops through careful design.
+- Ready to implement robust, efficient iterative logic in Python scripts and notebooks.
