@@ -416,3 +416,36 @@ All required steps for understanding and creating a standard data science projec
 **Summary:**
 - Confident in setting up and maintaining a clean, collaborative, and professional data science project structure.
 - Ready to scale the project and work effectively with others using this organization.
+
+
+## PR10:- Organizing Raw Data, Processed Data, and Output Artifacts
+
+### Data Organization – Task Completion
+
+All required steps for organizing raw data, processed data, and output artifacts have been completed as follows:
+
+**1. Understanding Raw Data**
+- Raw data is stored exactly as received, without any edits or cleaning.
+- Raw data files are treated as read-only and clearly identified in the project structure (e.g., `data/raw/`).
+- This approach preserves the original source and ensures data integrity for reproducibility.
+
+**2. Organizing Processed Data**
+- Cleaned or transformed datasets are saved separately from raw data (e.g., `data/processed/`).
+- Filenames for processed data clearly indicate the processing stage or transformation applied.
+- All processed data can be recreated from the raw data using documented scripts or notebooks.
+- Processed files are never mixed with raw inputs, supporting traceability and auditability.
+
+**3. Managing Output Artifacts**
+- Output artifacts such as plots, tables, reports, and models are stored in dedicated output folders (e.g., `outputs/`).
+- Outputs are not saved in data folders, keeping the structure clean and organized.
+- Descriptive names are used for output files to make them easy to locate and review.
+
+**4. Preventing Data Contamination**
+- Risks of overwriting or contaminating raw data are identified and avoided by maintaining strict separation.
+- No circular dependencies exist between raw, processed, and output data stages.
+- Scripts and notebooks are designed to read from raw data and write only to processed or output folders, ensuring a one-directional data flow.
+- This prevents subtle errors and maintains the reliability of the analysis pipeline.
+
+**Summary:**
+- Confident in organizing and managing raw, processed, and output data for clarity, reproducibility, and collaboration.
+- The project structure supports best practices for data integrity and workflow transparency.
