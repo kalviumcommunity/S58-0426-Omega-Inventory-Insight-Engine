@@ -715,3 +715,39 @@ All required steps for writing readable variable names and effective comments ac
 - Confident in writing readable, maintainable code using proper variable names and comments.
 - Consistently apply PEP 8 basics for clarity and professionalism.
 - Ready to contribute clean, understandable code to collaborative projects.
+
+
+## PR19:- Structuring Python Code for Readability and Reuse
+
+### Structuring Python Code for Readability and Reuse – Task Completion
+
+All required steps for structuring Python code for readability and reuse have been completed as follows:
+
+**1. Organizing Code into Sections**
+- Placed all import statements at the top of scripts.
+- Grouped variable definitions logically for clarity.
+- Separated helper functions from main execution logic.
+- Maintained a clear, top-to-bottom flow for easy scanning and understanding.
+
+**2. Using Functions for Reuse**
+- Identified repeated logic and extracted it into reusable functions.
+- Called functions instead of duplicating code blocks.
+- Ensured each function is focused on a single, clear task.
+- Improved maintainability by reducing code duplication.
+
+**3. Separating Logic from Execution**
+- Defined all functions before using them in the script.
+- Kept execution code minimal, readable, and distinct from definitions.
+- Avoided mixing setup, logic, and execution randomly.
+- Ensured the code reads logically from top to bottom for clarity and easier testing.
+
+**4. Writing Readable, Maintainable Code**
+- Used clear naming conventions and appropriate spacing for readability.
+- Avoided deeply nested logic to keep code approachable.
+- Maintained reasonable file sizes for manageability.
+- Wrote code that is easy for others to follow and extend.
+
+**Summary:**
+- Confident in structuring Python code for maximum readability, reuse, and maintainability.
+- Able to organize scripts and notebooks for clarity, collaboration, and future development.
+- Ready to contribute well-structured code to any data science or software project.
