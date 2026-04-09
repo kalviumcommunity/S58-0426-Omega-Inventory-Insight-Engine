@@ -679,3 +679,39 @@ All required steps for understanding how to pass data into functions and return 
 - Confident in passing data into functions, returning results, and using outputs effectively in Python.
 - Able to write flexible, reusable, and composable functions while avoiding common pitfalls.
 - Ready to build more complex and maintainable programs using these best practices.
+
+
+## PR18:- Writing Readable Variable Names and Comments (PEP8 Basics)
+
+### Writing Readable Variable Names and Comments (PEP8 Basics) – Task Completion
+
+All required steps for writing readable variable names and effective comments according to PEP 8 basics have been completed as follows:
+
+**1. Writing Readable Variable Names**
+- Used descriptive, meaningful names that reflect the variable's purpose.
+- Followed snake_case naming for variables.
+- Avoided single-letter or vague names, ensuring clarity.
+- Chose names that reduce the need for extra comments.
+
+**2. Following PEP 8 Naming Conventions**
+- Used lowercase with underscores for variable names.
+- Applied clear, descriptive names for constants where needed.
+- Kept names concise but informative.
+- Maintained consistency in naming throughout the code.
+
+**3. Writing Useful Comments**
+- Added comments to explain why complex code exists, not just what it does.
+- Avoided commenting on obvious operations.
+- Placed comments above complex or non-obvious logic.
+- Kept comments short, clear, and valuable.
+
+**4. Avoiding Common Readability Mistakes**
+- Did not leave commented-out code in the files.
+- Avoided misleading or outdated comments.
+- Prevented over-commenting simple lines.
+- Ensured code and comments remain aligned and up to date.
+
+**Summary:**
+- Confident in writing readable, maintainable code using proper variable names and comments.
+- Consistently apply PEP 8 basics for clarity and professionalism.
+- Ready to contribute clean, understandable code to collaborative projects.
