@@ -320,3 +320,34 @@ All required steps for understanding and using code and markdown cells in Jupyte
 - The distinction between code and markdown cells is clear and well understood.
 - Confident in structuring notebooks for clarity, combining narrative and computation as needed.
 - Ready to create well-documented, readable, and reproducible Jupyter notebooks for future work.
+
+
+## PR7:- Running, Restarting, and Interrupting Jupyter Kernels
+
+### Jupyter Kernel Management – Task Completion
+
+All required steps for running, restarting, and interrupting Jupyter kernels have been completed as follows:
+
+**1. Running Cells and Understanding Execution Order**
+- Executed notebook cells one by one and observed outputs.
+- Noted that the order of execution affects variable values and results.
+- Understood that the kernel maintains state across cells until it is restarted, which can lead to hidden dependencies.
+
+**2. Restarting the Kernel**
+- Used the restart option from the Jupyter menu to reset the kernel.
+- Observed that all variables and memory were cleared after restart.
+- Reran cells from the top to restore the notebook state and confirm reproducibility.
+
+**3. Interrupting Execution**
+- Started a long-running operation (e.g., an infinite loop) in a cell.
+- Used the interrupt option to safely stop execution without restarting the kernel.
+- Confirmed that the notebook remained responsive and usable after interruption.
+
+**4. Recognizing When to Restart vs Interrupt**
+- Practiced identifying when an interrupt is sufficient (e.g., accidental long-running code) versus when a full restart is needed (e.g., to clear all variables or fix a stuck kernel).
+- Reflected on the trade-offs: interrupting is faster and preserves state, while restarting ensures a clean slate but requires rerunning cells.
+
+**Summary:**
+- Confident in managing Jupyter kernels, including running, restarting, and interrupting as needed.
+- Able to maintain reproducibility and avoid common pitfalls related to notebook state and execution order.
+- Ready to handle notebook issues efficiently during data science work.
