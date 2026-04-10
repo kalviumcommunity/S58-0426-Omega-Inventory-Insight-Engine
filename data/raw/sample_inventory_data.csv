@@ -1,0 +1,76 @@
+product_id,store_id,product_name,date,units_sold,units_in_stock,category,price
+P001,S01,Laptop Stand,2024-01-01,5,45,Electronics,29.99
+P002,S01,USB-C Cable,2024-01-01,12,120,Electronics,9.99
+P003,S01,Desk Lamp,2024-01-01,2,8,Electronics,34.99
+P004,S01,Mouse Pad,2024-01-01,8,95,Electronics,12.99
+P005,S01,Keyboard,2024-01-01,4,22,Electronics,79.99
+P001,S02,Laptop Stand,2024-01-01,3,30,Electronics,29.99
+P002,S02,USB-C Cable,2024-01-01,18,150,Electronics,9.99
+P003,S02,Desk Lamp,2024-01-01,1,5,Electronics,34.99
+P004,S02,Mouse Pad,2024-01-01,10,110,Electronics,12.99
+P005,S02,Keyboard,2024-01-01,2,12,Electronics,79.99
+P001,S03,Laptop Stand,2024-01-01,7,60,Electronics,29.99
+P002,S03,USB-C Cable,2024-01-01,14,140,Electronics,9.99
+P003,S03,Desk Lamp,2024-01-01,3,12,Electronics,34.99
+P004,S03,Mouse Pad,2024-01-01,6,80,Electronics,12.99
+P005,S03,Keyboard,2024-01-01,5,28,Electronics,79.99
+P001,S01,Laptop Stand,2024-01-02,4,41,Electronics,29.99
+P002,S01,USB-C Cable,2024-01-02,15,105,Electronics,9.99
+P003,S01,Desk Lamp,2024-01-02,0,8,Electronics,34.99
+P004,S01,Mouse Pad,2024-01-02,7,88,Electronics,12.99
+P005,S01,Keyboard,2024-01-02,3,19,Electronics,79.99
+P001,S02,Laptop Stand,2024-01-02,2,28,Electronics,29.99
+P002,S02,USB-C Cable,2024-01-02,20,130,Electronics,9.99
+P003,S02,Desk Lamp,2024-01-02,2,3,Electronics,34.99
+P004,S02,Mouse Pad,2024-01-02,12,98,Electronics,12.99
+P005,S02,Keyboard,2024-01-02,1,11,Electronics,79.99
+P001,S03,Laptop Stand,2024-01-02,5,55,Electronics,29.99
+P002,S03,USB-C Cable,2024-01-02,16,124,Electronics,9.99
+P003,S03,Desk Lamp,2024-01-02,1,11,Electronics,34.99
+P004,S03,Mouse Pad,2024-01-02,8,72,Electronics,12.99
+P005,S03,Keyboard,2024-01-02,4,24,Electronics,79.99
+P001,S01,Laptop Stand,2024-01-03,6,35,Electronics,29.99
+P002,S01,USB-C Cable,2024-01-03,13,92,Electronics,9.99
+P003,S01,Desk Lamp,2024-01-03,1,7,Electronics,34.99
+P004,S01,Mouse Pad,2024-01-03,9,79,Electronics,12.99
+P005,S01,Keyboard,2024-01-03,5,14,Electronics,79.99
+P001,S02,Laptop Stand,2024-01-03,4,24,Electronics,29.99
+P002,S02,USB-C Cable,2024-01-03,19,111,Electronics,9.99
+P003,S02,Desk Lamp,2024-01-03,0,3,Electronics,34.99
+P004,S02,Mouse Pad,2024-01-03,11,87,Electronics,12.99
+P005,S02,Keyboard,2024-01-03,2,9,Electronics,79.99
+P001,S03,Laptop Stand,2024-01-03,8,47,Electronics,29.99
+P002,S03,USB-C Cable,2024-01-03,12,112,Electronics,9.99
+P003,S03,Desk Lamp,2024-01-03,2,9,Electronics,34.99
+P004,S03,Mouse Pad,2024-01-03,7,65,Electronics,12.99
+P005,S03,Keyboard,2024-01-03,6,18,Electronics,79.99
+P001,S01,Laptop Stand,2024-01-04,3,32,Electronics,29.99
+P002,S01,USB-C Cable,2024-01-04,16,76,Electronics,9.99
+P003,S01,Desk Lamp,2024-01-04,1,6,Electronics,34.99
+P004,S01,Mouse Pad,2024-01-04,10,69,Electronics,12.99
+P005,S01,Keyboard,2024-01-04,4,10,Electronics,79.99
+P001,S02,Laptop Stand,2024-01-04,5,19,Electronics,29.99
+P002,S02,USB-C Cable,2024-01-04,22,89,Electronics,9.99
+P003,S02,Desk Lamp,2024-01-04,1,2,Electronics,34.99
+P004,S02,Mouse Pad,2024-01-04,13,74,Electronics,12.99
+P005,S02,Keyboard,2024-01-04,3,6,Electronics,79.99
+P001,S03,Laptop Stand,2024-01-04,4,43,Electronics,29.99
+P002,S03,USB-C Cable,2024-01-04,14,98,Electronics,9.99
+P003,S03,Desk Lamp,2024-01-04,0,9,Electronics,34.99
+P004,S03,Mouse Pad,2024-01-04,6,59,Electronics,12.99
+P005,S03,Keyboard,2024-01-04,5,13,Electronics,79.99
+P001,S01,Laptop Stand,2024-01-05,7,25,Electronics,29.99
+P002,S01,USB-C Cable,2024-01-05,18,58,Electronics,9.99
+P003,S01,Desk Lamp,2024-01-05,2,4,Electronics,34.99
+P004,S01,Mouse Pad,2024-01-05,11,58,Electronics,12.99
+P005,S01,Keyboard,2024-01-05,6,4,Electronics,79.99
+P001,S02,Laptop Stand,2024-01-05,2,17,Electronics,29.99
+P002,S02,USB-C Cable,2024-01-05,21,68,Electronics,9.99
+P003,S02,Desk Lamp,2024-01-05,0,2,Electronics,34.99
+P004,S02,Mouse Pad,2024-01-05,14,60,Electronics,12.99
+P005,S02,Keyboard,2024-01-05,2,4,Electronics,79.99
+P001,S03,Laptop Stand,2024-01-05,9,34,Electronics,29.99
+P002,S03,USB-C Cable,2024-01-05,11,87,Electronics,9.99
+P003,S03,Desk Lamp,2024-01-05,1,8,Electronics,34.99
+P004,S03,Mouse Pad,2024-01-05,5,54,Electronics,12.99
+P005,S03,Keyboard,2024-01-05,7,6,Electronics,79.99
