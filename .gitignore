@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+env/
+conda_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Generated outputs
+outputs/
+data/processed/
+*.log
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+EOF
